@@ -1,0 +1,2 @@
+# LottoDatabase
+for LottoMobileApp
