@@ -1,5 +1,21 @@
 [
   {
+    "draw_date": "2026-04-06",
+    "lottery_results": {
+      "p1": "164488",
+      "p4": "4488",
+      "b3f": "488",
+      "b3b": "44",
+      "b2": "88"
+    },
+    "astro_index": {
+      "sun_sign": 11,
+      "moon_sign": 5,
+      "moon_naksatra": 12,
+      "rahu_sign": 4
+    }
+  },
+  {
     "draw_date": "2026-04-03",
     "lottery_results": {
       "p1": "097049",
@@ -12,6 +28,22 @@
       "sun_sign": 11,
       "moon_sign": 3,
       "moon_naksatra": 9,
+      "rahu_sign": 4
+    }
+  },
+  {
+    "draw_date": "2026-04-02",
+    "lottery_results": {
+      "p1": "990643",
+      "p4": "0643",
+      "b3f": "643",
+      "b3b": "06",
+      "b2": "43"
+    },
+    "astro_index": {
+      "sun_sign": 11,
+      "moon_sign": 3,
+      "moon_naksatra": 8,
       "rahu_sign": 4
     }
   },
