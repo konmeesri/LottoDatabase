@@ -1,5 +1,21 @@
 [
   {
+    "draw_date": "2026-04-13",
+    "lottery_results": {
+      "p1": "727568",
+      "p4": "7568",
+      "b3f": "568",
+      "b3b": "75",
+      "b2": "68"
+    },
+    "astro_index": {
+      "sun_sign": 11,
+      "moon_sign": 8,
+      "moon_naksatra": 19,
+      "rahu_sign": 4
+    }
+  },
+  {
     "draw_date": "2026-04-10",
     "lottery_results": {
       "p1": "790389",
