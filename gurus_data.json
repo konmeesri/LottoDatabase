@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "draw_date": "02/05/2026",
+    "updated_at": "2026-04-23T17:00:00Z",
+    "status": "active"
+  },
+  "data": [
+    {
+      "id": "g01",
+      "name": "เจ๊ฟองเบียร์",
+      "tag": "ฟันเน้นๆ",
+      "isHot": true,
+      "views": "24.8K",
+      "image": "https://placehold.co/400x600/1F1F2A/FFD700.png?text=FongBeer",
+      "numbers": {
+        "highlight": "8",
+        "two_digits": ["81", "85", "87"],
+        "three_digits": ["587"]
+      }
+    },
+    {
+      "id": "g02",
+      "name": "แม่น้ำหนึ่ง",
+      "tag": "สายจุดธูป",
+      "isHot": true,
+      "views": "12.4K",
+      "image": "https://placehold.co/400x600/1F1F2A/00E5FF.png?text=NamNueng",
+      "numbers": {
+        "highlight": "5",
+        "two_digits": ["52", "59", "50"],
+        "three_digits": ["259"]
+      }
+    },
+    {
+      "id": "g03",
+      "name": "เจ๊นุ๊ก บารมีมหาเฮง",
+      "tag": "สายด่วน",
+      "isHot": false,
+      "views": "28K",
+      "image": "https://placehold.co/400x600/151520/FFFFFF.png?text=JeNook",
+      "numbers": {
+        "highlight": "3",
+        "two_digits": ["30", "38", "39"],
+        "three_digits": ["308"]
+      }
+    },
+    {
+      "id": "g04",
+      "name": "ดุ่ย ภรัญฯ",
+      "tag": "ตารางเลข",
+      "isHot": false,
+      "views": "12K",
+      "image": "https://placehold.co/400x600/151520/FFFFFF.png?text=Dui+Parun",
+      "numbers": {
+        "highlight": "1",
+        "two_digits": ["14", "15", "19"],
+        "three_digits": ["915"]
+      }
+    },
+    {
+      "id": "g05",
+      "name": "ปฏิทินจีน",
+      "tag": "สูตรโบราณ",
+      "isHot": false,
+      "views": "10K",
+      "image": "https://placehold.co/400x600/151520/FFFFFF.png?text=Chinese+Cal",
+      "numbers": {
+        "highlight": "-",
+        "two_digits": ["24", "68", "26", "48"],
+        "three_digits": ["246", "468"]
+      }
+    }
+  ]
+}
